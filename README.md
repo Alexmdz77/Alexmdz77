@@ -14,7 +14,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-alexandretrv@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:alexandretrv@gmail.com)](alexandretrv@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-trouve/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alexmdz77)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandretrv@gmail.com)
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
