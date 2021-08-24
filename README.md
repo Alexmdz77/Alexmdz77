@@ -1,5 +1,5 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-
+<div align="center">
 ### :smiley_cat: I am a student at ESGI Paris
 
 ### so, curently this is my first try making my readme, hope you like it 😄
@@ -18,12 +18,13 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alexmdz77)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandretrv@gmail.com)
 
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6>Made with ❤️ by Me (probably)</h6>
 
 ------
 Credit: [Alexmdz77](https://github.com/Alexmdz77)
 
 Last Edited on: 24/08/2021
+</div>
 <!--
 **Alexmdz77/Alexmdz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
