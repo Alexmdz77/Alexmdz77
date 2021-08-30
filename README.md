@@ -13,6 +13,13 @@
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmdz77&theme=tokyonight&layout=compact&count_private=true" />
   
 <!--START_SECTION:waka-->
+```text
+JavaScript   4 hrs 28 mins   ████████████████▒░░░░░░░░   64.97 % 
+SCSS         1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
+CSS          30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+PHP          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+XML          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+```
 <!--END_SECTION:waka-->
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
