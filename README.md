@@ -10,19 +10,7 @@
 ## By the way here are some of my statistics 🚀
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Alexmdz77&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
 <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexmdz77&theme=tokyonight" />
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmdz77&theme=tokyonight&layout=compact&count_private=true" />
-
-##
-
-<!--START_SECTION:waka-->
-```text
-Week: 24 August, 2021 - 30 August, 2021
-
-Vue          2 hrs 5 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.24 % 
-SCSS         0 hrs 5 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.62 % 
-XML          0 hrs 1 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.12 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexmdz77&theme=tokyonight&count_private=true&langs_count=5&custom_title=Language Stats" />
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
