@@ -10,8 +10,8 @@
 ## By the way here are some of my statistics 🚀
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Alexmdz77&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
 <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexmdz77&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmdz77&layout=compact&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexmdz77&theme=tokyonight&count_private=true&langs_count=5&custom_title=Language Stats (for the last 7 days)&range=last_7_days" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmdz77&layout=compact&theme=tokyonight"/>
+<img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexmdz77&theme=tokyonight&count_private=true&langs_count=5&custom_title=Language Stats (for the last 7 days)&range=last_7_days" />
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
