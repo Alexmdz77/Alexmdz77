@@ -23,7 +23,7 @@
 
 ------
   
-![](https://visitor-badge.laobi.icu/badge?page_id=alexmdz77.alexmdz77.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexmdz77.alexmdz77.visitor-badge)
   
 Last Edited on: 06/02/2023
 </div>
